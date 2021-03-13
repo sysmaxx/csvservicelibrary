@@ -5,7 +5,7 @@ using System.Linq;
 using CSVServiceLibrary.Interfaces;
 using System.Collections.Generic;
 using static CSVServiceLibrary.Helper.CsvPropertyHelper;
-using static CSVServiceLibrary.Helper.ReflactionHelper;
+using static CSVServiceLibrary.Helper.ReflectionHelper;
 
 namespace CSVServiceLibrary.Extensions
 {

@@ -3,7 +3,7 @@ using System.Reflection;
 
 namespace CSVServiceLibrary.Helper
 {
-    public static class ReflactionHelper
+    internal static class ReflectionHelper
     {
         public static Type GetPropertyType(PropertyInfo prop)
         {
